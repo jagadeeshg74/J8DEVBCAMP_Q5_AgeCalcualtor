@@ -1,0 +1,26 @@
+<test-cases>
+	<cases xsi:type="java:com.assessment.data.TestCase">
+		<test-case-type>Functional</test-case-type>
+		<expected-ouput>true</expected-ouput>
+		<name>testValidateDates_success</name>
+		<weight>3</weight>
+		<mandatory>true</mandatory>
+		<desc>na</desc>
+	</cases>
+	<cases xsi:type="java:com.assessment.data.TestCase">
+		<test-case-type>Functional</test-case-type>
+		<expected-ouput>true</expected-ouput>
+		<name>testValidateDates_failure</name>
+		<weight>3</weight>
+		<mandatory>true</mandatory>
+		<desc>na</desc>
+	</cases>
+	<cases xsi:type="java:com.assessment.data.TestCase">
+		<test-case-type>Functional</test-case-type>
+		<expected-ouput>true</expected-ouput>
+		<name>testcalculateAge_success</name>
+		<weight>4</weight>
+		<mandatory>true</mandatory>
+		<desc>na</desc>
+	</cases>
+</test-cases>
